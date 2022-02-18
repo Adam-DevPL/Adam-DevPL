@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adam-DevPL
-- 👀 I’m interested in Frontend.
+- 👀 I’m interested in Frontend and Backend.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on <none>
 - 📫 How to reach me <none>
