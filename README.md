@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Adam-DevPL
-- 👀 I’m interested in Web Application, especially backend.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on <none>
-- 📫 How to reach me <none>
+- 👀 I’m interested in Web Application backend, especially written in NestJs.
+
 
 <!---
 Adam-DevPL/Adam-DevPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
